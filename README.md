@@ -14,6 +14,6 @@
 
 #### ⭐ Recent Stars
 
-- [corentinmusard/otel-cicd-action](https://github.com/corentinmusard/otel-cicd-action) - Open Telemetry CI/CD Action (today)
-- [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) - Automatically commit and push changed files back to GitHub with this GitHub Action for the 80% use case. (today)
-- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (today)
+- [corentinmusard/otel-cicd-action](https://github.com/corentinmusard/otel-cicd-action) - Open Telemetry CI/CD Action (1 day ago)
+- [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) - Automatically commit and push changed files back to GitHub with this GitHub Action for the 80% use case. (1 day ago)
+- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (1 day ago)
